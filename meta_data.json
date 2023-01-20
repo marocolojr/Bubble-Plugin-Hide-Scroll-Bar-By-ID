@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "containers"
+    },
+    "description": "To use this plugin, please expose ID:\n\nSettings - General -  General: Expose the option to add an ID attribute to HTML elements - Enable",
+    "image": "//s3.amazonaws.com/appforest_uf/f1674241341435x653869682835026000/scroll-v-svgrepo-com.svg",
+    "license": "open_source",
+    "name": "Hide Scroll Bar By ID",
+    "plugin_instructions": "1. Hide Scrollbar"
+}
